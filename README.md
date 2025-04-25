@@ -2,10 +2,11 @@
 
 ✅ Objetivo del ejercicio
 - Crear ramas (git checkout -b)
+- Cambiar ramas (git switch)
 - Subir cambios (git push origin)
 - Hacer pull request (PR)
 - Resolver conflictos
-- Revisar código de otros
+- Revisar cambios de otros
 - Fusionar (merge) correctamente
 
 Seguir las siguientes instrucciones para realizar el ejercicio
