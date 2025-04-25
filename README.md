@@ -1,5 +1,13 @@
 # ISW-Branches-2025
 
+✅ Objetivo del ejercicio
+- Crear ramas (git checkout -b)
+- Subir cambios (git push origin)
+- Hacer pull request (PR)
+- Resolver conflictos
+- Revisar código de otros
+- Fusionar (merge) correctamente
+
 Seguir las siguientes instrucciones para realizar el ejercicio
 
 ## 1 🧍‍♂️🧍‍♀️ Agregar su perfil
